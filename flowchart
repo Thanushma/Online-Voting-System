@@ -1,0 +1,13 @@
+voting-system/
+├── backend/
+│   ├── models/
+│   │   └── vote.js
+│   ├── routes/
+│   │   └── vote.js
+│   ├── app.js
+│   └── package.json
+├── frontend/
+│   ├── index.html
+│   ├── styles.css
+│   └── script.js
+└── README.md
